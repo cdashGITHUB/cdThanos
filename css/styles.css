@@ -1,0 +1,153 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito&family=Raleway&family=Tilt+Warp&display=swap');
+
+/* font-family: 'Nunito', sans-serif;
+font-family: 'Raleway', sans-serif;
+font-family: 'Tilt Warp', cursive; */
+
+* {
+	padding: 0;
+	margin: 0;
+	border: 0;
+}
+
+h1 {
+	text-align: center;
+}
+
+h2 {
+	
+}
+
+body {
+	
+}
+
+table {
+	margin: 0 auto;
+	font-size: 1.5em;
+}
+
+.btn {
+	font-size: .7em;
+}
+
+header {
+	background-color: #8341FA;
+}
+
+header h1 {
+	color: #FAF141;
+	font-family: 'Tilt Warp', cursive;
+}
+
+header img {
+	display: block; 
+	width: 100%; 
+}
+
+header a {
+	display: block;
+	max-width: 100px;
+	margin: 0 auto;
+}
+
+main {
+	background-color: #501CAD;
+	min-height: 500px;
+}
+
+main p {
+	padding: 0 2%;
+	font-family: 'Raleway', sans-serif;
+	color: #FAF141;
+}
+
+#home-p {
+	text-align: center;
+}
+
+#titan-p {
+	text-align: right;
+}
+
+#target-p {
+	text-align: center;
+	padding: 0 0 1%;
+}
+
+blockquote {
+	font-size: 3em;
+	text-align: center;
+	font-weight: bold;
+	padding: 1% 0;
+	font-family: 'Tilt Warp', cursive;
+	color: #FAF141;
+}
+
+img {
+	display: block;
+	margin: 0 auto;
+}
+
+.top-nav {
+	text-align: center;
+	background-color: #965CFF;
+	font-size: 1.2em;
+	padding: 5px 0;
+	font-family: 'Nunito', sans-serif;
+}
+
+.top-nav ul {
+	list-style-type: none;
+}
+
+.top-nav li {
+	display: inline-block;
+	padding: 0 1%;
+}
+
+.top-nav a {
+	text-decoration: none;
+	color: #FAF141;
+}
+
+.top-nav a:hover {
+	background-color: #FAF141;
+	color: #965CFF;
+}
+
+footer {
+	text-align: center;
+	background-color: #AD9D38;
+	color: #501CAD;
+	padding: 0 0 1%;
+	font-family: 'Raleway', sans-serif;
+}
+
+.foot-nav {
+	text-align: center;
+	background-color: #FAF141;
+	font-size: 1.1em;
+	padding: 5px 0;
+	font-family: 'Nunito', sans-serif;
+}
+
+.foot-nav ul {
+	list-style-type: none;
+}
+
+.foot-nav li {
+	display: inline-block;
+	padding: 0 1%;
+}
+
+.foot-nav a {
+	text-decoration: none;
+	color: #965CFF;
+}
+
+.foot-nav a:hover {
+	background-color: #965CFF;
+	color: #FAF141;
+}
+
